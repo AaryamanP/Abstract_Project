@@ -1,0 +1,1 @@
+This is a simple Python program to manage student records. It allows users to add students, view details, and search for specific records.
